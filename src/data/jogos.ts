@@ -2,12 +2,12 @@ export const primeiraRodada = [
   {
     time1: {
       name: "BARCELONA 11",
-      shield: "/times/doces-souza.png",
+      shield: "/times/barca11.png",
       goals: 3,
     },
     time2: {
       name: "AUDAX 11",
-      shield: "/times/morro.png",
+      shield: "/times/audax11.png",
       goals: 3,
     },
     rodada: "Primeira Rodada",
@@ -21,12 +21,12 @@ export const primeiraRodada = [
   {
     time1: {
       name: "DAMA DA BOLA",
-      shield: "/times/america.png",
+      shield: "/times/damas.png",
       goals: 2,
     },
     time2: {
       name: "ATLÂNTICO 2",
-      shield: "/times/juventos.png",
+      shield: "/times/atlantico2.png",
       goals: 2,
     },
     rodada: "Primeira Rodada",
@@ -40,12 +40,12 @@ export const primeiraRodada = [
   {
     time1: {
       name: "RAÇA FEMININA",
-      shield: "/times/atletico-taquari.png",
+      shield: "/times/raca.png",
       goals: 0,
     },
     time2: {
       name: "ATLÂNTICO 1",
-      shield: "/times/real12.png",
+      shield: "/times/atlantico1.png",
       goals: 1,
     },
     rodada: "Primeira Rodada",
@@ -61,12 +61,12 @@ export const segundaRodada = [
   {
     time1: {
       name: "ATLÂNTICO 1",
-      shield: "/times/doces-souza.png",
+      shield: "/times/atlantico1.png",
       goals: 2,
     },
     time2: {
       name: "DAMAS DA BOLA",
-      shield: "/times/morro.png",
+      shield: "/times/damas.png",
       goals: 3,
     },
     rodada: "Segunda Rodada",
@@ -80,12 +80,12 @@ export const segundaRodada = [
   {
     time1: {
       name: "RAÇA FEMININA",
-      shield: "/times/america.png",
+      shield: "/times/raca.png",
       goals: 4,
     },
     time2: {
       name: "BARCELONA 11",
-      shield: "/times/juventos.png",
+      shield: "/times/barca11.png",
       goals: 0,
     },
     rodada: "Segunda Rodada",
@@ -99,12 +99,12 @@ export const segundaRodada = [
   {
     time1: {
       name: "AUDAX 11",
-      shield: "/times/atletico-taquari.png",
+      shield: "/times/audax11.png",
       goals: 0,
     },
     time2: {
       name: "ATLÂNTICO 2",
-      shield: "/times/real12.png",
+      shield: "/times/atlantico2.png",
       goals: 4,
     },
     rodada: "Segunda Rodada",
@@ -120,12 +120,12 @@ export const terceiraRodada = [
   {
     time1: {
       name: "AUDAX 11",
-      shield: "/times/doces-souza.png",
+      shield: "/times/audax11.png",
       goals: 3,
     },
     time2: {
       name: "DAMAS DA BOLA",
-      shield: "/times/morro.png",
+      shield: "/times/damas.png",
       goals: 2,
     },
     rodada: "Terceira Rodada",
@@ -139,12 +139,12 @@ export const terceiraRodada = [
   {
     time1: {
       name: "RAÇA FEMININA",
-      shield: "/times/america.png",
+      shield: "/times/raca.png",
       goals: 3,
     },
     time2: {
       name: "ATLÂNTICO 2",
-      shield: "/times/juventos.png",
+      shield: "/times/atlantico2.png",
       goals: 3,
     },
     rodada: "Terceira Rodada",
@@ -158,12 +158,12 @@ export const terceiraRodada = [
   {
     time1: {
       name: "BARCELONA 11",
-      shield: "/times/atletico-taquari.png",
+      shield: "/times/barca11.png",
       goals: 3,
     },
     time2: {
       name: "ATLÂNTICO 1",
-      shield: "/times/real12.png",
+      shield: "/times/atlantico1.png",
       goals: 1,
     },
     rodada: "Terceira Rodada",

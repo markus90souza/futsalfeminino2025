@@ -31,20 +31,25 @@ const BottomNav = () => {
         <Link href="/artilheiro" className="flex items-center">
           {isGruposActive ? (
             <Icon
-              icon="uil:search"
+              icon="mdi:soccer"
               width="32"
               height="32"
               className="stroke-current stroke-5"
             />
           ) : (
-            <Icon icon="uil:search" width="32" height="32" />
+            <Icon
+              icon="mdi:soccer"
+              width="32"
+              height="32"
+              className="stroke-current stroke-5"
+            />
           )}
         </Link>
         <Link href="/classificacao" className="flex items-center">
           {isClassificacaoActive ? (
-            <Icon icon="mingcute:notification-fill" width="32" height="32" />
+            <Icon icon="mdi:trophy" width="32" height="32" />
           ) : (
-            <Icon icon="mingcute:notification-line" width="32" height="32" />
+            <Icon icon="mdi:trophy-outline" width="32" height="32" />
           )}
         </Link>
         {/* <Link href="/times" className="flex items-center">
