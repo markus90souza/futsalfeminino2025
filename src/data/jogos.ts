@@ -15,7 +15,7 @@ export const primeiraRodada = [
     time: "19:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/doces-souza-x-morro-da-providencia",
+    link: "/partida/fase-01/barcelona-x-audax",
   },
 
   {
@@ -34,7 +34,7 @@ export const primeiraRodada = [
     time: "20:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/america-x-juventos",
+    link: "/partida/fase-01/damas-x-atlantico-2",
   },
 
   {
@@ -53,7 +53,7 @@ export const primeiraRodada = [
     time: "21:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/atletico-taquari-x-real-12",
+    link: "/partida/fase-01/raca-x-atlantico-2",
   },
 ];
 
@@ -74,7 +74,7 @@ export const segundaRodada = [
     time: "19:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/doces-souza-x-morro-da-providencia",
+    link: "/partida/fase-02/atlantico-1-x-damas",
   },
 
   {
@@ -93,7 +93,7 @@ export const segundaRodada = [
     time: "20:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/america-x-juventos",
+    link: "/partida/fase-02/raca-x-barcelona",
   },
 
   {
@@ -112,7 +112,7 @@ export const segundaRodada = [
     time: "21:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/atletico-taquari-x-real-12",
+    link: "/partida/fase-02/audax-x-atlantico-2",
   },
 ];
 
