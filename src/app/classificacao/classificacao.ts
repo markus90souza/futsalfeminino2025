@@ -1,6 +1,7 @@
 export const classificacao = [
   {
     id: 1,
+    pos: 4,
     name: "BARCELONA 11",
     image: "/times/barca11.png",
     pts: 4,
@@ -14,6 +15,7 @@ export const classificacao = [
   },
   {
     id: 2,
+    pos: 5,
     name: "AUDAX 11",
     image: "/times/audax11.png",
     pts: 4,
@@ -27,6 +29,7 @@ export const classificacao = [
   },
   {
     id: 3,
+    pos: 3,
     name: "DAMAS DA BOLA",
     image: "/times/damas.png",
     pts: 4,
@@ -40,6 +43,7 @@ export const classificacao = [
   },
   {
     id: 4,
+    pos: 1,
     name: "ATLÂNTICO 2",
     image: "/times/atlantico2.png",
     pts: 5,
@@ -54,6 +58,7 @@ export const classificacao = [
 
   {
     id: 5,
+    pos: 2,
     name: "RAÇA FEMININA",
     image: "/times/raca.png",
     pts: 4,
@@ -68,6 +73,7 @@ export const classificacao = [
 
   {
     id: 6,
+    pos: 6,
     name: "ATLÂNTICO 1",
     image: "/times/atlantico1.png",
     pts: 3,
