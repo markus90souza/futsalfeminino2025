@@ -133,7 +133,7 @@ export const terceiraRodada = [
     time: "19:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/doces-souza-x-morro-da-providencia",
+    link: "/partida/fase-03/audax-x-damas",
   },
 
   {
@@ -152,7 +152,7 @@ export const terceiraRodada = [
     time: "20:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/america-x-juventos",
+    link: "/partida/fase-03/raca-x-atlantico-2",
   },
 
   {
@@ -171,7 +171,7 @@ export const terceiraRodada = [
     time: "21:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/atletico-taquari-x-real-12",
+    link: "/partida/fase-03/barcelona-x-atlantico-1",
   },
 ];
 
