@@ -184,7 +184,7 @@ export const quartaRodada = [
     },
     time2: {
       name: "ATLÂNTICO 2",
-      shield: "/times/damas.png",
+      shield: "/times/atlantico2.png",
       goals: 4,
     },
     rodada: "Quarta Rodada",
@@ -203,7 +203,7 @@ export const quartaRodada = [
     },
     time2: {
       name: "BARCELONA 11",
-      shield: "/times/atlantico2.png",
+      shield: "/times/barca11.png",
       goals: 4,
     },
     rodada: "Quarta Rodada",
