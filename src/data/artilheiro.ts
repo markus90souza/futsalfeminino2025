@@ -18,8 +18,8 @@ export const artilheiro = [
   },
   {
     pos: 10,
-    name: "Josy", // 3 = 1;
-    goals: 1,
+    name: "Josy", // 3 = 1; 4 = 1;
+    goals: 2,
     number: 10,
     time: "AUDAX 11",
     shield: "/times/audax11.png",
@@ -66,11 +66,19 @@ export const artilheiro = [
     time: "DAMAS DA BOLA",
     shield: "/times/damas.png",
   },
+  {
+    pos: 4,
+    name: "Sheila", //  4 = 1;
+    goals: 1,
+    number: 31,
+    time: "DAMAS DA BOLA",
+    shield: "/times/damas.png",
+  },
   // Barcelona 11
   {
     pos: 9,
     name: "Laissa",
-    goals: 2, // 1 = 2;
+    goals: 4, // 1 = 2; 4 = 2;
     number: 9,
     time: "BARCELONA 11",
     shield: "/times/barca11.png",
@@ -78,7 +86,7 @@ export const artilheiro = [
   {
     pos: 8,
     name: "Solange",
-    goals: 2, // 1 = 1; 3 = 1;
+    goals: 4, // 1 = 1; 3 = 1; 4 = 2;
     number: 10,
     time: "BARCELONA 11",
     shield: "/times/barca11.png",
@@ -179,7 +187,7 @@ export const artilheiro = [
   {
     pos: 1,
     name: "Lora",
-    goals: 5, // 2 = 4; 3 = 1;
+    goals: 8, // 2 = 4; 3 = 1; 4 = 3;
     number: 14,
     time: "RAÇA FEMININA",
     shield: "/times/raca.png",
