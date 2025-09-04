@@ -1,7 +1,7 @@
 export const classificacao = [
   {
     id: 1,
-    pos: 4,
+    pos: 3,
     name: "BARCELONA 11",
     image: "/times/barca11.png",
     pts: 7,
@@ -29,7 +29,7 @@ export const classificacao = [
   },
   {
     id: 3,
-    pos: 3,
+    pos: 4,
     name: "DAMAS DA BOLA",
     image: "/times/damas.png",
     pts: 4,
