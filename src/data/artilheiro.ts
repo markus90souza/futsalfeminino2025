@@ -117,13 +117,45 @@ export const artilheiro = [
     time: "ATLÂNTICO 2",
     shield: "/times/atlantico2.png",
   },
-
+  {
+    pos: 4,
+    name: "Carol",
+    goals: 2, // 4 = 2;
+    number: 15,
+    time: "ATLÂNTICO 2",
+    shield: "/times/atlantico2.png",
+  },
+  {
+    pos: 4,
+    name: "Cristina",
+    goals: 1, // 4 = 1;
+    number: 11,
+    time: "ATLÂNTICO 2",
+    shield: "/times/atlantico2.png",
+  },
+  {
+    pos: 4,
+    name: "Taina",
+    goals: 1, // 4 = 1;
+    number: 88,
+    time: "ATLÂNTICO 2",
+    shield: "/times/atlantico2.png",
+  },
+  
   // Atlântico 1
   {
     pos: 10,
     name: "Joana",
     goals: 2, // 1 = 1; 3 = 1;
     number: 88,
+    time: "ATLÂNTICO 1",
+    shield: "/times/atlantico1.png",
+  },
+  {
+    pos: 10,
+    name: "Maria (Duda)",
+    goals: 1, // 4 = 1;
+    number: 27,
     time: "ATLÂNTICO 1",
     shield: "/times/atlantico1.png",
   },
