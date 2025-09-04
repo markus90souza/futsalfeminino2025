@@ -1,53 +1,48 @@
 export const statitics = [
   {
     time1: {
-      name: "Audax 11",
-      shield: "/times/audax11.png",
-      goals: 3,
+      name: "Atlântico 1",
+      shield: "/times/atlantico1.png",
+      goals: 1,
       playerGoals: [
         {
-          name: "Josy",
+          name: "Maria (Duda)",
           goals: 1,
-          number: 10,
-        },
-        {
-          name: "Josy",
-          goals: 1,
-          number: 8,
-        },
-        {
-          name: "Jucy",
-          goals: 1,
-          number: 5,
+          number: 27,
         },
       ],
       cartoes: 0,
       ca: 0,
       cv: 0,
       expulsoes: 0,
-      faltas: 5,
+      faltas: 1,
     },
     time2: {
-      name: "Damas da Bola",
-      shield: "/times/damas.png",
-      goals: 2,
+      name: "Atlântico 2",
+      shield: "/times/atlantico2.png",
+      goals: 4,
       playerGoals: [
         {
-          name: "Cailane",
-          goals: 1,
-          number: 7,
+          name: "Carol",
+          goals: 2,
+          number: 15,
         },
         {
-          name: "Cauane",
+          name: "Cristina",
           goals: 1,
-          number: 9,
+          number: 11,
         },
+        {
+          name: "Taina",
+          goals: 1,
+          number: 88, 
+        }
       ],
-      cartoes: 0,
-      ca: 0,
+      cartoes: 1,
+      ca: 1,
       cv: 0,
       expulsoes: 0,
-      faltas: 2,
+      faltas: 4,
     },
   },
 ];
