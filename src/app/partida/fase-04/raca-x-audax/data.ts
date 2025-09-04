@@ -8,7 +8,7 @@ export const statitics = [
         {
           name: "Lora",
           goals: 3,
-          number: 03,
+          number: 3,
         },
       ],
       cartoes: 1,
