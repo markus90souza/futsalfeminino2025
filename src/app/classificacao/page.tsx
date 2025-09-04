@@ -36,8 +36,8 @@ const ClassifacaoPage = () => {
               <TableBody>
                 {classificacao
                   .sort((a, b) => b.pts - a.pts)
-                  .sort((a, b) => a.pos - b.pos) // ordena pela posição
-                  .filter((item) => item.pos)
+                  //.sort((a, b) => a.pos - b.pos) // ordena pela posição
+                  //.filter((item) => item.pos)
                   .map((item, index) => (
                     <TableRow key={index}>
                       <TableCell className="font-mono text-sm text-center font-medium">
