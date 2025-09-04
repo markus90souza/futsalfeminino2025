@@ -7,25 +7,16 @@ export const statitics = [
       playerGoals: [
         {
           name: "Lora",
-          goals: 1,
-          number: 14,
+          goals: 3,
+          number: 03,
         },
-        {
-          name: "Paloma",
-          goals: 1,
-          number: 2,
-        },
-        {
-          name: "Pamela",
-          goals: 4,
-          number: 11,
-        },
+    
       ],
-      cartoes: 2,
-      ca: 2,
+      cartoes: 1,
+      ca: 1,
       cv: 0,
       expulsoes: 0,
-      faltas: 6,
+      faltas: 3,
     },
     time2: {
       name: "Atlântico 2",

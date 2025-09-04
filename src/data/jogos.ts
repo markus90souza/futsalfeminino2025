@@ -211,7 +211,7 @@ export const quartaRodada = [
     time: "20:00",
     stadium: "Quadra Poliesportiva AG 11",
     status: "Finalizado",
-    link: "/partida/fase-03/raca-x-atlantico-2",
+    link: "/partida/fase-04/damas-x-barcelona",
   },
 
   {
