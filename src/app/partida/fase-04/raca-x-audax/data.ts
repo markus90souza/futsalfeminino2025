@@ -20,7 +20,7 @@ export const statitics = [
     time2: {
       name: "Audax 11",
       shield: "/times/audax11.png",
-      goals: 3,
+      goals: 1,
       playerGoals: [
         {
           name: "Josy",
