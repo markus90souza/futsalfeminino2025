@@ -10,7 +10,6 @@ export const statitics = [
           goals: 3,
           number: 03,
         },
-    
       ],
       cartoes: 1,
       ca: 1,
@@ -19,24 +18,14 @@ export const statitics = [
       faltas: 3,
     },
     time2: {
-      name: "Atlântico 2",
-      shield: "/times/atlantico2.png",
+      name: "Audax 11",
+      shield: "/times/audax11.png",
       goals: 3,
       playerGoals: [
         {
-          name: "Gol contra",
+          name: "Josy",
           goals: 1,
-          number: 0,
-        },
-        {
-          name: "Daiane",
-          goals: 1,
-          number: 13,
-        },
-        {
-          name: "Vanusia",
-          goals: 1,
-          number: 5,
+          number: 10,
         },
       ],
       cartoes: 1,
