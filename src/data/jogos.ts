@@ -234,6 +234,65 @@ export const quartaRodada = [
   },
 ];
 
+export const quintaRodada = [
+  {
+    time1: {
+      name: "Audax 11",
+      shield: "/times/audax11.png",
+      goals: 1,
+    },
+    time2: {
+      name: "ATLÂNTICO 1",
+      shield: "/times/atlantico1.png",
+      goals: 5,
+    },
+    rodada: "Quinta Rodada",
+    date: "Quarta, 10/09/2025",
+    time: "19:00",
+    stadium: "Quadra Poliesportiva AG 11",
+    status: "Finalizado",
+    link: "/partida/fase-05/audax-x-atlantico1",
+  },
+
+  {
+    time1: {
+      name: "DAMAS DA BOLA",
+      shield: "/times/damas.png",
+      goals: 2,
+    },
+    time2: {
+      name: "Raça Feminina",
+      shield: "/times/raca.png",
+      goals: 0,
+    },
+    rodada: "Quinta Rodada",
+    date: "Quarta, 10/09/2025",
+    time: "20:00",
+    stadium: "Quadra Poliesportiva AG 11",
+    status: "Finalizado",
+    link: "/partida/fase-05/damas-x-raca",
+  },
+
+  {
+    time1: {
+      name: "Barcelona 11",
+      shield: "/times/barca11.png",
+      goals: 0,
+    },
+    time2: {
+      name: "Atlântico 2",
+      shield: "/times/atlantico2.png",
+      goals: 2,
+    },
+    rodada: "Quinta Rodada",
+    date: "Quarta, 10/09/2025",
+    time: "21:00",
+    stadium: "Quadra Poliesportiva AG 11",
+    status: "Finalizado",
+    link: "/partida/fase-05/barcelona-x-atlantico2",
+  },
+];
+
 // export const oitavas = [
 //   {
 //     time1: {
