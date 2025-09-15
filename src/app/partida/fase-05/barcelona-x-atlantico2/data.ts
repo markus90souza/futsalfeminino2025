@@ -37,7 +37,7 @@ export const statitics = [
       ca: 1,
       cv: 0,
       expulsoes: 0,
-      faltas: 1,
+      faltas: 2,
     },
   },
 ];

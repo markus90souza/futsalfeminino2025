@@ -3,7 +3,7 @@ export const artilheiro = [
   {
     pos: 1,
     name: "Giselle", // 1 = 2;
-    goals: 2,
+    goals: 3,
     number: 8,
     time: "AUDAX 11",
     shield: "/times/audax11.png",
@@ -120,7 +120,7 @@ export const artilheiro = [
   {
     pos: 4,
     name: "Viviane",
-    goals: 1, // 2 = 1; Oitavas = 1;
+    goals: 2, // 2 = 1;
     number: 17,
     time: "ATLÂNTICO 2",
     shield: "/times/atlantico2.png",
@@ -149,13 +149,21 @@ export const artilheiro = [
     time: "ATLÂNTICO 2",
     shield: "/times/atlantico2.png",
   },
-  
+
   // Atlântico 1
   {
     pos: 10,
     name: "Joana",
     goals: 2, // 1 = 1; 3 = 1;
     number: 88,
+    time: "ATLÂNTICO 1",
+    shield: "/times/atlantico1.png",
+  },
+  {
+    pos: 10,
+    name: "Binha",
+    goals: 2, // 1 = 1; 3 = 1;
+    number: 17,
     time: "ATLÂNTICO 1",
     shield: "/times/atlantico1.png",
   },
@@ -170,7 +178,7 @@ export const artilheiro = [
   {
     pos: 10,
     name: "Natalia (Pantera)",
-    goals: 1, // 1 = 1; Oitavas = 1;
+    goals: 2, // 1 = 1;
     number: 26,
     time: "ATLÂNTICO 1",
     shield: "/times/atlantico1.png",
@@ -178,7 +186,7 @@ export const artilheiro = [
   {
     pos: 10,
     name: "Nayara",
-    goals: 1, // 1 = 1; Oitavas = 1;
+    goals: 3, // 1 = 1; Oitavas = 1;
     number: 19,
     time: "ATLÂNTICO 1",
     shield: "/times/atlantico1.png",
