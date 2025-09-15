@@ -170,7 +170,7 @@ export default function Home() {
         </Shell>
       </div>
 
-      <div className="w-full">
+      {/* <div className="w-full">
         <Shell className="max-w-7xl mx-auto px-4">
           <Section title="Semi-Finais" href="#">
             {semiFinal.map((item, index) => (
@@ -196,7 +196,7 @@ export default function Home() {
             ))}
           </Section>
         </Shell>
-      </div>
+      </div> */}
 
       <div className="w-full">
         <Shell className="max-w-7xl mx-auto px-4">
